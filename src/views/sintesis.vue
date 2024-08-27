@@ -5,9 +5,9 @@
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-10.mb-5.bgs.p-5.brad
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="La síntesis  detalla el proceso de gestión de nómina, incluyendo procesos, elementos, seguridad social, aportes parafiscales, prestaciones sociales y componentes salariales en una organización.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
