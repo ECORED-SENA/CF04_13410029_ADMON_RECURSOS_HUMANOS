@@ -63,10 +63,10 @@ export default {
             { id: 'b', texto: '10 %', esCorrecta: false },
             {
               id: 'c',
-              texto: '8.5 %',
+              texto: '8,5 %',
               esCorrecta: true,
             },
-            { id: 'd', texto: '6.5 %', esCorrecta: false },
+            { id: 'd', texto: '6,5 %', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Perfecto! Has seleccionado la respuesta correcta.',

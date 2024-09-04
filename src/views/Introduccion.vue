@@ -13,7 +13,7 @@
       .col-lg-12.col-12.px-lg-5.px-4.pb-4 
         .row.justify-content-center.align-items-center          
           .col-lg-12
-            p(data-aos="fade-down") La gestión de la nómina y las prestaciones sociales ha evolucionado significativamente en las últimas décadas. Antiguamente, este proceso era visto como una tarea manual, limitada a calcular y pagar salarios, lo que requería tiempo y recursos considerables. Sin embargo, con el avance tecnológico y la transformación organizacional, la nómina ha pasado a ser un pilar fundamental en la administración del talento humano, desempeñando un rol clave no solo en la compensación de los empleados, sino también en la planificación financiera y la toma de decisiones estratégicas dentro de las organizaciones.  
+            p(data-aos="fade-down") La gestión de la nómina y las prestaciones sociales han evolucionado significativamente en las últimas décadas. Antiguamente, este proceso era visto como una tarea manual, limitada a calcular y pagar salarios, lo que requería tiempo y recursos considerables. Sin embargo, con el avance tecnológico y la transformación organizacional, la nómina ha pasado a ser un pilar fundamental en la administración del talento humano, desempeñando un rol clave no solo en la compensación de los empleados, sino también en la planificación financiera y la toma de decisiones estratégicas dentro de las organizaciones.  
             .row.justify-content-center.align-items-center         
               .col-lg-9.my-3
                 .bg1.brad.p-4.mb-4

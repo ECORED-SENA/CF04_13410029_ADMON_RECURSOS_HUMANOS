@@ -22,7 +22,7 @@
 
                   p(data-aos="fade-down").mb-0 Entre las funciones de la administración del talento humano, la elaboración de la nómina es una de las más delicadas, ya que cualquier error puede afectar directamente al trabajador y a la empresa, especialmente en el proceso de liquidación de la carga prestacional (parafiscales).    
 
-            p(data-aos="fade-down") La elaboración de la nómina incluye una serie de elementos que, debido a su complejidad y estructura, pueden ser difíciles de manejar para la administración, lo que ha llevado a algunas empresas a optar por delegar o contratar este servicio con organizaciones especializadas (outsourcing) o personas naturales expertas. Estos elementos son: 
+            p(data-aos="fade-down") La elaboración de la nómina incluye una serie de elementos que, debido a su complejidad y estructura, pueden ser difíciles de manejar para la administración, lo que ha llevado a algunas empresas a optar por delegar o contratar este servicio con organizaciones especializadas (#[i outsourcing]) o personas naturales expertas. Estos elementos son: 
             .row.justify-content-center.align-items-center         
               .col-lg-4.my-3
                 img.img-t.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/7.svg', alt='')    
@@ -147,7 +147,7 @@
                       .col-8
                         img.img-t.img-a(src='@/assets/curso/temas/21.svg' alt='AvatarTop')
                     h5 Salud 
-                    p.mb-0 8.5 % del salario base.     
+                    p.mb-0 8,5 % del salario base.     
 
                   .bg2.brad.p-4.h-100.text-white
                     .row.justify-content-center.mb-3
@@ -200,9 +200,9 @@
             h3.mb-0 Salud
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col.order-1
-        p(data-aos="fade-down") La cotización al sistema de salud es del 12.5 % del salario base de aportes para el sistema de seguridad social (Ley 100/93). El empleado aporta un 4 % y la empresa un 8.5 %, porcentaje que la empresa debe apropiar en cada nómina y posteriormente consignar a la entidad de salud correspondiente. 
+        p(data-aos="fade-down") La cotización al sistema de salud es del 12,5 % del salario base de aportes para el sistema de seguridad social (Ley 100/93). El empleado aporta un 4 % y la empresa un 8,5 %, porcentaje que la empresa debe apropiar en cada nómina y posteriormente consignar a la entidad de salud correspondiente. 
 
-        h5.mb-0.t1(data-aos="fade-down") SALUD 12.5 % = 4 % EMPLEADO + 8.5 % EMPLEADOR        
+        h5.mb-0.t1(data-aos="fade-down") SALUD 12,5 % = 4 % EMPLEADO + 8,5 % EMPLEADOR        
       .col-lg-auto.my-3.order-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/27.svg', alt='') 
 
@@ -286,31 +286,31 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg11")
           .row.justify-content-center.align-items-center(titulo="Clase I, riesgo mínimo")
             .col.order-1
-              p.mb-0 Incluye actividades con bajo riesgo de lesiones o enfermedades profesionales, como trabajos de oficina, actividades comerciales, financieras, y educativas. Sin embargo, no siempre se incluyen restaurantes en esta categoría, ya que pueden implicar riesgos más altos debido al manejo de alimentos y maquinaria.       
+              p.mb-0 Incluye actividades con bajo riesgo de lesiones o enfermedades profesionales, como trabajos de oficina, actividades comerciales, financieras y educativas. Sin embargo, no siempre se incluyen restaurantes en esta categoría, ya que pueden implicar riesgos más altos debido al manejo de alimentos y maquinaria.       
             .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/40.svg', alt='')  
 
           .row.justify-content-center.align-items-center(titulo="Clase II, riesgo bajo")
             .col.order-1
-              p.mb-0 Agrupa actividades con riesgos ligeramente superiores, como la fabricación de textiles, tejidos, y algunas labores agrícolas. Almacenes por departamentos pueden variar en riesgo dependiendo de las actividades específicas que se realicen en ellos.      
+              p.mb-0 Agrupa actividades con riesgos ligeramente superiores, como la fabricación de textiles, tejidos y algunas labores agrícolas. Almacenes por departamentos pueden variar en riesgo dependiendo de las actividades específicas que se realicen en ellos.      
             .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/41.svg', alt='')  
 
           .row.justify-content-center.align-items-center(titulo="Clase III, riesgo medio")
             .col.order-1
-              p.mb-0 Aquí se ubican actividades industriales de mayor complejidad, como la fabricación de alimentos, automotores, y artículos de cuero, donde hay un riesgo moderado de accidentes o enfermedades laborales.       
+              p.mb-0 Aquí se ubican actividades industriales de mayor complejidad, como la fabricación de alimentos, automotores y artículos de cuero, donde hay un riesgo moderado de accidentes o enfermedades laborales.       
             .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/42.svg', alt='')  
 
           .row.justify-content-center.align-items-center(titulo="Clase IV, riesgo alto")
             .col.order-1
-              p.mb-0 Incluye actividades con riesgos significativos, como la fabricación de productos químicos (aceites, cervezas), manejo de vidrio, y transporte aéreo o terrestre, donde los trabajadores están expuestos a peligros más serios.       
+              p.mb-0 Incluye actividades con riesgos significativos, como la fabricación de productos químicos (aceites, cervezas), manejo de vidrio y transporte aéreo o terrestre, donde los trabajadores están expuestos a peligros más serios.       
             .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/43.svg', alt='')  
 
           .row.justify-content-center.align-items-center(titulo="Clase V, riesgo máximo")
             .col.order-1
-              p.mb-0 Esta categoría abarca actividades con los riesgos más altos, como el manejo de asbestos, bomberos, la construcción, y la explotación petrolera y minera, donde existe un alto potencial de accidentes graves o enfermedades laborales.       
+              p.mb-0 Esta categoría abarca actividades con los riesgos más altos, como el manejo de asbestos, bomberos, la construcción y la explotación petrolera y minera, donde existe un alto potencial de accidentes graves o enfermedades laborales.       
             .col-lg-auto.my-3.order-lg-2
               img.img-a.img-t(src='@/assets/curso/temas/44.svg', alt='') 
 
@@ -372,14 +372,14 @@
                 .row.justify-content-center(titulo="Prima de servicios")
                   .col-lg-6.order-1
                     h5 Prima de servicios
-                    p.mb-0 La organización debe apropiar mensualmente un 8.33 % del salario base para el cálculo de las prestaciones sociales, y brindar un mes de salario que se pagará al colaborador por semestre calendario: 15 días en junio y 15 días en los primeros 20 días de diciembre. (Art. 306 C.S.T.)       
+                    p.mb-0 La organización debe apropiar mensualmente un 8,33 % del salario base para el cálculo de las prestaciones sociales, y brindar un mes de salario que se pagará al colaborador por semestre calendario: 15 días en junio y 15 días en los primeros 20 días de diciembre. (Art. 306 C.S.T.)       
                   .col-lg-4.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/50.png', alt='') 
 
                 .row.justify-content-center(titulo="Vacaciones")
                   .col-lg-6.order-1
                     h5 Vacaciones
-                    p.mb-0 La organización apropia un 4.17 % del salario del trabajador para otorgar 15 días hábiles consecutivos de vacaciones remuneradas por cada año de servicio. (Art.186 C.S.T.)       
+                    p.mb-0 La organización apropia un 4,17 % del salario del trabajador para otorgar 15 días hábiles consecutivos de vacaciones remuneradas por cada año de servicio. (Art.186 C.S.T.)       
                   .col-lg-4.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/51.png', alt='') 
 
