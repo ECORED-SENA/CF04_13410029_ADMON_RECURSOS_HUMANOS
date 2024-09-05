@@ -34,7 +34,7 @@
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/58.svg', alt='')
 
             .row.justify-content-center.mb-5
-              .col-lg-4(data-aos="fade-right")
+              .col-lg-4.my-3(data-aos="fade-right")
                 .bg-cont.brad1.h-100
                   img.brad-top(data-aos="zoom-in")(src='@/assets/curso/temas/60.png', alt='')
 
@@ -42,7 +42,7 @@
                     p.mb-0 Embargo de salario
                   .p-4.pt-0
                     p.mb-0 La legislación establece que el salario mínimo no es embargable en su totalidad; sin embargo, se permite el embargo de hasta un 50 % en favor de cooperativas o por orden judicial (como en el caso de alimentos).                  
-              .col-lg-4(data-aos="fade-left")
+              .col-lg-4.my-3(data-aos="fade-left")
                 .bg-cont.brad1.h-100
                   img.brad-top(data-aos="zoom-in")(src='@/assets/curso/temas/61.png', alt='')
 
