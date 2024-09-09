@@ -386,7 +386,7 @@
                 .row.justify-content-center(titulo="Cesantías")
                   .col-lg-6.order-1
                     h5 Cesantías
-                    p.mb-0 Se apropia mensualmente un 8.33 % del salario del trabajador, equivalente a un mes de salario por cada año de servicio o proporcionalmente por fracciones de año. (Art. 249 C.S.T.)       
+                    p.mb-0 Se apropia mensualmente un 8,33 % del salario del trabajador, equivalente a un mes de salario por cada año de servicio o proporcionalmente por fracciones de año. (Art. 249 C.S.T.)       
                   .col-lg-4.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/52.png', alt='') 
 
