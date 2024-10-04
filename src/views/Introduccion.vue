@@ -25,7 +25,7 @@
                     .col-auto
                       img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.png', alt='')        
                     .col.my-3
-                      p(data-aos="fade-down").mb-0 Además, la tendencia creciente de externalizar este proceso a través de servicios de outsourcing ha permitido que muchas organizaciones se enfoquen en su misión principal, delegando esta función crítica a expertos en el área. Esto no solo garantiza el cumplimiento legal, sino que también optimiza los costos y mejora la eficiencia operativa.
+                      p(data-aos="fade-down").mb-0 Además, la tendencia creciente de externalizar este proceso a través de servicios de #[i outsourcing] ha permitido que muchas organizaciones se enfoquen en su misión principal, delegando esta función crítica a expertos en el área. Esto no solo garantiza el cumplimiento legal, sino que también optimiza los costos y mejora la eficiencia operativa.
                       
               .col-lg-3.my-3.d-none.d-lg-block
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.png', alt='')  

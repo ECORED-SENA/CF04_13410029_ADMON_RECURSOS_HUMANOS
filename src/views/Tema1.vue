@@ -7,7 +7,7 @@
         span 1
       h1 El proceso de la nómina
       
-    p(data-aos="fade-down") La legislación laboral en Colombia ha reglamentado el proceso de pago de salarios por parte de las organizaciones, tanto públicas como privadas, nacionales o extranjeras con domicilio en el país. Debido a la inequidad que existía en algunos sectores, donde no se reconocían los derechos salariales y prestacionales de los trabajadores, estos derechos quedaron consagrados en el Código Sustantivo del Trabajo (C.S.T.).
+    p(data-aos="fade-down") La legislación laboral en Colombia ha reglamentado el proceso de pago de salarios por parte de las organizaciones, tanto públicas como privadas, nacionales o extranjeras, con domicilio en el país. Debido a la inequidad que existía en algunos sectores, donde no se reconocían los derechos salariales y prestacionales de los trabajadores, estos derechos quedaron consagrados en el Código Sustantivo del Trabajo (C.S.T.).
     .row.bg3.align-items-center
       .col-lg-12.col-12.px-lg-5.px-4.pb-4 
         .row.justify-content-center.align-items-center          
@@ -168,7 +168,7 @@
                       .col-8
                         img.img-t.img-a(src='@/assets/curso/temas/24.svg' alt='AvatarTop')
                     h5 Aportes parafiscales 
-                    p.mb-0 4 % para cajas de compensación familiar, 3% para el ICBF, y 2 % para el SENA.    
+                    p.mb-0 4 % para cajas de compensación familiar, 3 % para el ICBF, y 2 % para el SENA.    
                   .bg2.brad.p-4.h-100.text-white
                     .row.justify-content-center.mb-3
                       .col-8
@@ -372,35 +372,35 @@
                 .row.justify-content-center(titulo="Prima de servicios")
                   .col-lg-6.order-1
                     h5 Prima de servicios
-                    p.mb-0 La organización debe apropiar mensualmente un 8,33 % del salario base para el cálculo de las prestaciones sociales, y brindar un mes de salario que se pagará al colaborador por semestre calendario: 15 días en junio y 15 días en los primeros 20 días de diciembre. (Art. 306 C.S.T.)       
+                    p.mb-0 La organización debe apropiar mensualmente un 8,33 % del salario base para el cálculo de las prestaciones sociales, y brindar un mes de salario que se pagará al colaborador por semestre calendario: 15 días en junio y 15 días en los primeros 20 días de diciembre. (Art. 306 C.S.T).       
                   .col-lg-4.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/50.png', alt='') 
 
                 .row.justify-content-center(titulo="Vacaciones")
                   .col-lg-6.order-1
                     h5 Vacaciones
-                    p.mb-0 La organización apropia un 4,17 % del salario del trabajador para otorgar 15 días hábiles consecutivos de vacaciones remuneradas por cada año de servicio. (Art.186 C.S.T.)       
+                    p.mb-0 La organización apropia un 4,17 % del salario del trabajador para otorgar 15 días hábiles consecutivos de vacaciones remuneradas por cada año de servicio. (Art.186 C.S.T).       
                   .col-lg-4.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/51.png', alt='') 
 
                 .row.justify-content-center(titulo="Cesantías")
                   .col-lg-6.order-1
                     h5 Cesantías
-                    p.mb-0 Se apropia mensualmente un 8,33 % del salario del trabajador, equivalente a un mes de salario por cada año de servicio o proporcionalmente por fracciones de año. (Art. 249 C.S.T.)       
+                    p.mb-0 Se apropia mensualmente un 8,33 % del salario del trabajador, equivalente a un mes de salario por cada año de servicio o proporcionalmente por fracciones de año. (Art. 249 C.S.T).       
                   .col-lg-4.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/52.png', alt='') 
 
                 .row.justify-content-center(titulo="Intereses sobre cesantías")
                   .col-lg-6.order-1
                     h5 Intereses sobre cesantías
-                    p.mb-0 La organización apropia el 12 % del valor de las cesantías provisionadas, según el periodo de liquidación, correspondiente a los intereses del saldo acumulado al 31 de diciembre. (Ley 52 de 1975)       
+                    p.mb-0 La organización apropia el 12 % del valor de las cesantías provisionadas, según el periodo de liquidación, correspondiente a los intereses del saldo acumulado al 31 de diciembre. (Ley 52 de 1975).       
                   .col-lg-4.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/53.png', alt='') 
 
                 .row.justify-content-center(titulo="Dotación")
                   .col-lg-6.order-1
                     h5 Dotación
-                    p.mb-0 Se entrega a quienes devenguen hasta dos salarios mínimos mensuales y tengan más de tres meses de servicio. La dotación consiste en un par de zapatos y un vestido de labor tres veces al año. (Ley 11 de 1984, Art. 7)       
+                    p.mb-0 Se entrega a quienes devenguen hasta dos salarios mínimos mensuales y tengan más de tres meses de servicio. La dotación consiste en un par de zapatos y un vestido de labor tres veces al año. (Ley 11 de 1984, Art. 7).       
                   .col-lg-4.my-3.order-lg-2
                     img.img-a.img-t(src='@/assets/curso/temas/54.png', alt='') 
 

@@ -121,21 +121,21 @@ export default {
     {
       tema: 'El proceso de la nómina',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Análisis de la normativa de nómina y seguridad social [Archivo de video] Youtube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022). Análisis de la normativa de nómina y seguridad social [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ePwq6PIQaXM',
     },
     {
       tema: 'Elementos de la nómina',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Liquidación de nómina – Ejemplo 1. [Archivo de video] Youtube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Liquidación de nómina – Ejemplo 1. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=AYvf1eq5RR8',
     },
     {
       tema: 'Seguridad social',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Regímenes de afiliación al Sistema General de Seguridad Social en Salud. [Archivo de video] Youtube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2021). Regímenes de afiliación al Sistema General de Seguridad Social en Salud. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/f4N9drI26o0?si=_7GqMnZwIRINqhcF',
     },
@@ -148,7 +148,7 @@ export default {
     {
       tema: 'Cálculo del salario mínimo',
       referencia:
-        'Ecosistema de Recursos Educativos Digitales SENA. (2023). Pagos laborales. [Archivo de video] Youtube.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2023). Pagos laborales. [Archivo de video] YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=RJTrjvZ6ycM',
     },
