@@ -182,8 +182,7 @@
             h5(data-aos="flip-up").text-center Horas extras
             p(data-aos="fade-down") - Valor hora ordinaria + 25 % de recargo nocturno. 
 
-            p(data-aos="fade-down") - Ley 50 de 1990 Art. 24
-            p(data-aos="fade-down").mb-0 - Valor hora ordinaria + 75 % de recargo.
+            p(data-aos="fade-down") - Ley 50 de 1990 Art. 24: valor hora ordinaria + 75 % de recargo.
 
       .col-lg-4.my-3
         .bg2.sha.brad1.h-100
